@@ -89,7 +89,9 @@ npm run dev
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais informações
 
+<br> 
+
 <p align="center">
-  Feito Isael Soares👋🏽 <a href="https://www.linkedin.com/in/isaelsoares/" target="_blank">Entre em contato!</a>  
+  Feito por Isael Soares👋🏽 <a href="https://www.linkedin.com/in/isaelsoares/" target="_blank">Entre em contato!</a>  
 </p>
 
