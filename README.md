@@ -34,7 +34,7 @@ O desenvolvimento desta aplicação ocorreu durante o NLW Unite da [Rocketseat](
 - Definir instruções de URL com parâmetros de consulta
 
 
-# 👷 Executar o projeto:
+# 👷 Inicie o front-end
 
 Clonar repositório
 
