@@ -6,10 +6,6 @@ Um dos aspectos mais destacados deste projeto é a utilização de persistência
 
 O desenvolvimento desta aplicação ocorreu durante o NLW Unite da [Rocketseat](https://www.rocketseat.com.br/), empregando predominantemente tecnologias como React, TypeScript e Tailwind.
 
-# Preview
-
-![preview.png](https://github.com/vivianemartini/nlw-unite/blob/main/src/assets/preview.png)
-
 # 🛠️ Tecnologias 
 
 - Vite
