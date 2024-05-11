@@ -20,7 +20,7 @@ O desenvolvimento desta aplicação ocorreu durante o NLW Unite da [Rocketseat](
 - Tailwind
 - Lucide icons
 
-# 📚 Blibiotecas
+# 📚 Bibliotecas
 
 - Tailwind-merge
 - FakerJS
