@@ -53,7 +53,7 @@ Backend utilizado disponível em [RocketNodeJs](https://github.com/rocketseat-ed
 **Você precisa instalar o [Node.js](https://nodejs.org/en/download/) e depois, clonar o projeto via HTTPS, usando o comando abaixo:**
 
 ```
-git clone https://github.com/rocketseat-education/nlw-unite-nodejs.git
+git clone git@github.com:isaelsoares/pass-in-web.git
 ```
 
 **Instalar dependências**
