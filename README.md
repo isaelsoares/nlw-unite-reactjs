@@ -2,7 +2,7 @@
 
 A plataforma Pass.in é uma ferramenta de gerenciamento de participantes de eventos, equipada com um painel de controle para os organizadores.
 
-Um dos aspectos mais destacados deste projeto é a utilização de persistência de estados de URL, garantindo a continuidade das interações dos usuários mesmo após a atualização da página. Além disso, destaca-se a implementação de uma interface completamente padronizada, seguindo os princípios de design com o auxílio do Tailwind CSS.
+Um dos aspectos de maior destaque deste projeto é a utilização de persistência de estados de URL, garantindo a continuidade das interações dos usuários mesmo após a atualização da página. Além disso, destaca-se a implementação de uma interface completamente padronizada, seguindo os princípios de design com o auxílio do Tailwind CSS.
 
 O desenvolvimento desta aplicação ocorreu durante o NLW Unite da [Rocketseat](https://www.rocketseat.com.br/), empregando predominantemente tecnologias como React, TypeScript e Tailwind.
 
@@ -32,7 +32,7 @@ O desenvolvimento desta aplicação ocorreu durante o NLW Unite da [Rocketseat](
 Clonar repositório
 
 ```
-git clone git@github.com:vivianemartini/nlw-unite.git
+git clone git@github.com:isaelsoares/pass-in-web.git
 ```
 Instalar dependências
 
@@ -53,7 +53,7 @@ Backend utilizado disponível em [RocketNodeJs](https://github.com/rocketseat-ed
 **Você precisa instalar o [Node.js](https://nodejs.org/en/download/) e depois, clonar o projeto via HTTPS, usando o comando abaixo:**
 
 ```
-git clone git@github.com:isaelsoares/pass-in-web.git
+git clone git@github.com:rocketseat-education/nlw-unite-nodejs.git
 ```
 
 **Instalar dependências**
