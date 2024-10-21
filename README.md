@@ -32,7 +32,7 @@ O desenvolvimento desta aplicação ocorreu durante o NLW Unite da [Rocketseat](
 Clonar repositório
 
 ```
-git clone git@github.com:isaelsoares/pass-in-web.git
+git clone git@github.com:isaelsoares/nlw-unite-reactjs.git
 ```
 Instalar dependências
 
